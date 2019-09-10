@@ -1,7 +1,0 @@
-C:\Users\Vlad\source\repos\ZooProject\obj\Debug\ZooProject.csprojAssemblyReference.cache
-C:\Users\Vlad\source\repos\ZooProject\obj\Debug\ZooProject.csproj.CoreCompileInputs.cache
-C:\Users\Vlad\source\repos\ZooProject\bin\Debug\ZooProject.exe.config
-C:\Users\Vlad\source\repos\ZooProject\bin\Debug\ZooProject.exe
-C:\Users\Vlad\source\repos\ZooProject\bin\Debug\ZooProject.pdb
-C:\Users\Vlad\source\repos\ZooProject\obj\Debug\ZooProject.exe
-C:\Users\Vlad\source\repos\ZooProject\obj\Debug\ZooProject.pdb
